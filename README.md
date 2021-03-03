@@ -16,11 +16,15 @@
 
 ---
 
-## 1. 기능
+## 1. 실행 방법
+
+    > python Main_Body.py --comip='' --comport=7101 --cnsip='192.168.0.101' --cnsport=7101
+
+## 2. 기능
 
 ...
 
-## 2. 시스템 및 라이브러리 요구사항
+## 3. 시스템 및 라이브러리 요구사항
 
 - Compact Nuclear Simulator (CNSOne_2021_xx_xx.tar 버전이상)
 - Python 3.8.x 이상
